@@ -1,1 +1,1 @@
-# Simple-weed-detection
+# Simple weed detection
